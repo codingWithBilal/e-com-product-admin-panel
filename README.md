@@ -20,6 +20,10 @@ php artisan migrate
 
 php artisan db:seed
 
+Admin-Link: http://127.0.0.1:8000/admin/login
 
+Email: admin@gmail.com
+
+Password: 123456
 
 Thank you for considering & visiting to Admin Panel! .
