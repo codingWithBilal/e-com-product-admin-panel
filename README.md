@@ -12,7 +12,12 @@ composer update
 Once the laravel all package has been installed, you may you coonect env file and set database name:
 
 // After Connecting env and databasename...
+
+
 php artisan migrate
+
+
+
 php artisan db:seed
 
 
